@@ -51,4 +51,9 @@ python -m bot.main
 - می‌توانید با GitHub Actions و Railway/Render مستقر کنید.
 - دستور اجرای سرویس: `python -m bot.main`
 
+### Railway
+- فایل‌های `railway.json` و `Procfile` اضافه شده‌اند.
+- در GitHub → Settings → Secrets مقدار `RAILWAY_TOKEN` را اضافه کنید.
+- هر push به `main` به‌صورت خودکار دیپلوی می‌شود (`.github/workflows/railway-deploy.yml`).
+
 
