@@ -1,0 +1,8 @@
+pandas==2.2.1
+openpyxl==3.1.2
+numpy==1.26.4
+aiogram==3.4.1
+requests==2.31.0
+urllib3==2.0.7
+woocommerce==3.0.0
+python-dotenv==1.0.0 

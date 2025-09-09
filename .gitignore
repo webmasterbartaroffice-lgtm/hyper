@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Envs
+.env
+.venv/
+venv/
+ENV/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs / temp
+*.log
+logs/
+tmp/
+temp/
+
+# Data
+*.xlsx
+!new.xlsx
+
